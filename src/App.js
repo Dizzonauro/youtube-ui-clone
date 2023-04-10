@@ -1,9 +1,9 @@
-import './App.css';
+import HeaderAndSideBar from './components/HeaderAndSideBar/HeaderAndSideBar';
 
 function App() {
   return (
     <div className="App">
-      <h1>oi</h1>
+      <HeaderAndSideBar />
     </div>
   );
 }
